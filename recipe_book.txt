@@ -1,0 +1,10 @@
+Pancakes|flour, milk, eggs, sugar, baking powder|Mix all ingredients, cook on a hot griddle until golden brown.
+Chocolate Chip Cookies|flour,butter,sugar,eggs,Chocolate chips|Mix ingredients,stir in chocolate chips, and bake until golden brown
+Tea|Tea leaves,water,sugar,milk|Steep tea leaves in hot water,add sugar and milk to taste
+Banana Smoothie|Bananas,yogurt,milk|Blend bananas,yogurt and milk untill smooth
+Veg Fried Rice|Cooked rice,vegetables,oil,soy sauce|Stir fry rice with vegetables and soy sauce
+Fruit Salad|Mixed fruits,honey,lemon juice|Mix fruits,drizzle with honey and lemon juice
+Strawberry Icecream|Strawberries,cream,sugar|Mix cream,sugar and vanilla extract,churn in icecream maker until set
+Vermicelli Payasam|Vermicelli,milk,sugar,nuts|Cook vermicelli in milk with sugar and garnish with nuts
+Protein Shake|Protein powder,milk,banana or other fruit|Blend protein powder,milk and fruit until smooth
+Fried Chicken|Chicken,flour,eggs,breadcrumbs|Dredge chicken in flour,dip in eggs,coat with breadcrumbs, and fry until crispy

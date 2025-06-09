@@ -1,0 +1,200 @@
+Player X moved to position 1
+Current board:
+X |   |  
+--+---+--
+  |   |  
+--+---+--
+  |   |  
+
+Player O moved to position 5
+Current board:
+X |   |  
+--+---+--
+  | O |  
+--+---+--
+  |   |  
+...
+Player X moved to position 1
+Current board:
+X |   |  
+--+---+--
+  |   |  
+--+---+--
+  |   |  
+
+Player O moved to position 0
+Current board:
+X |   |  
+--+---+--
+  |   |  
+--+---+--
+  |   | O
+
+Player X moved to position 2
+Current board:
+X | X |  
+--+---+--
+  |   |  
+--+---+--
+  |   | O
+
+Player O moved to position 3
+Current board:
+X | X | O
+--+---+--
+  |   |  
+--+---+--
+  |   | O
+
+Player X moved to position 4
+Current board:
+X | X | O
+--+---+--
+X |   |  
+--+---+--
+  |   | O
+
+Player O moved to position 8
+Current board:
+X | X | O
+--+---+--
+X |   |  
+--+---+--
+  | O | O
+
+Player X moved to position 7
+Current board:
+X | X | O
+--+---+--
+X |   |  
+--+---+--
+X | O | O
+
+Player X moved to position 4
+Current board:
+  |   |  
+--+---+--
+X |   |  
+--+---+--
+  |   |  
+
+Player O moved to position 3
+Current board:
+  |   | O
+--+---+--
+X |   |  
+--+---+--
+  |   |  
+
+Player X moved to position 8
+Current board:
+  |   | O
+--+---+--
+X |   |  
+--+---+--
+  | X |  
+
+Player O moved to position 7
+Current board:
+  |   | O
+--+---+--
+X |   |  
+--+---+--
+O | X |  
+
+Player X moved to position 0
+Current board:
+  |   | O
+--+---+--
+X |   |  
+--+---+--
+O | X | X
+
+Player O moved to position 2
+Current board:
+  | O | O
+--+---+--
+X |   |  
+--+---+--
+O | X | X
+
+Player X moved to position 6
+Current board:
+  | O | O
+--+---+--
+X |   | X
+--+---+--
+O | X | X
+
+Player O moved to position 1
+Current board:
+O | O | O
+--+---+--
+X |   | X
+--+---+--
+O | X | X
+
+Player X moved to position 1
+Current board:
+X |   |  
+--+---+--
+  |   |  
+--+---+--
+  |   |  
+
+Player O moved to position 2
+Current board:
+X | O |  
+--+---+--
+  |   |  
+--+---+--
+  |   |  
+
+Player X moved to position 3
+Current board:
+X | O | X
+--+---+--
+  |   |  
+--+---+--
+  |   |  
+
+Player O moved to position 4
+Current board:
+X | O | X
+--+---+--
+O |   |  
+--+---+--
+  |   |  
+
+Player X moved to position 7
+Current board:
+X | O | X
+--+---+--
+O |   |  
+--+---+--
+X |   |  
+
+Player O moved to position 5
+Current board:
+X | O | X
+--+---+--
+O | O |  
+--+---+--
+X |   |  
+
+Player X moved to position 6
+Current board:
+X | O | X
+--+---+--
+O | O | X
+--+---+--
+X |   |  
+
+Player O moved to position 8
+Current board:
+X | O | X
+--+---+--
+O | O | X
+--+---+--
+X | O |  
+
